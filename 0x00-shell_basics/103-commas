@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amvp
+ls ls -Ap sort -d --version-sort | tr '\n' ','; echo
